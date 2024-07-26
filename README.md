@@ -19,5 +19,5 @@
 
 |  | Network | Docs |
 |------|----------|---------------------|
-| <img src="https://img.cryptorank.io/coins/0_g_labs1711467106027.png" width="50"/> | 0G Labs | [0G Guide]() |
+| <img src="https://img.cryptorank.io/coins/0_g_labs1711467106027.png" width="50"/> | 0G Labs | [0G Guide](https://github.com/yutkach/0G-brilee/tree/main) |
 | <img src="https://img.cryptorank.io/coins/omni_network1712911889767.png" width="50"/> | Omni Network | [Omni Guide]() |
