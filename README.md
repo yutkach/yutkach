@@ -33,5 +33,6 @@ Hello reader👋
 
 |  | Network | Docs |
 |------|----------|---------------------|
+| <img src="https://github.com/user-attachments/assets/ee09271d-69ea-4563-a51b-e5bcb95fe0e9" width="50"/> | Arkeo | [Arkeo Guide](https://github.com/yutkach/arkeoguide) |
 | <img src="https://img.cryptorank.io/coins/0_g_labs1711467106027.png" width="50"/> | 0G Labs | [0G Guide](https://github.com/yutkach/0G-brilee/tree/main) |
 | <img src="https://img.cryptorank.io/coins/omni_network1712911889767.png" width="50"/> | Omni Network | [Omni Guide]() |
