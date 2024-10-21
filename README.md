@@ -15,24 +15,23 @@ Hello reader👋
 
 |  | Network | Explorer | Validator address |
 |------|----------|---------------------| --- |
-| <img src="https://img.cryptorank.io/coins/0_g_labs1711467106027.png" width="50"/> | 0G Labs | [Link](https://testnet.0g.explorers.guru/validator/0gvaloper16hjxsymhx3d7wvaqm8jh25q684r8202hwu5gl7) | 0gvaloper16hjxsymhx3d7wvaqm8jh25q684r8202hwu5gl7 |
-| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-hfV1QPNeDmoXoOvoo5VAUlRIYn6Idm5pA&s" width="50"/> | Celestia | [Link](https://celestia.explorers.guru/validator/celestiavaloper1hu24jt4h5a62s3durjrclu0hn32pafajtq9j4u) | celestiavaloper1hu24jt4h5a62s3durjrclu0hn32pafajtq9j4u |
-| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgk22eqUnuYk0hH8U3jP1KmflfbUzJQqBceA&s" width="50"/> | Kyve | [Link](https://kyve.explorers.guru/validator/kyvevaloper1s7avjl968dwcnkzpruhx9j4q90t7jsh2srewkm) | kyvevaloper1s7avjl968dwcnkzpruhx9j4q90t7jsh2srewkm |
+| <img src="https://github.com/user-attachments/assets/3865056c-5c03-4206-9e6c-817d33115220" width="50"/> | Berachain | [Link]() | - |
+| <img src="https://github.com/user-attachments/assets/f61ddb6e-40e7-4ecd-b3ce-152da6d80a81" width="50"/> | Over | [Link]() | - |
+| <img src="https://github.com/user-attachments/assets/979b045d-94be-4cc0-aa09-961e86f8589e" width="50"/> | Bandot | [Link]() | - |
 | <img src="https://static.wixstatic.com/media/a5afc9_7787d8cfcec24c5abf51019a3646aa72~mv2.png/v1/fit/w_2500,h_1330,al_c/a5afc9_7787d8cfcec24c5abf51019a3646aa72~mv2.png" width="50"/> | Deweb | [Link](https://dws.explorers.guru/validator/dewebvaloper1sxf9025rkhhjycr2t75c68p8h5952krghmv776) | dewebvaloper1sxf9025rkhhjycr2t75c68p8h5952krghmv776 |
-| <img src="https://avatars.githubusercontent.com/u/29290126?s=200&v=4" width="50"/> | Connext | [Link](https://testnet.amarok.connextscan.io/router/0xa56856A21Db19659fBd232Da42a28c221f30FeF9) | 0xa56856A21Db19659fBd232Da42a28c221f30FeF9 |
+| <img src="https://github.com/user-attachments/assets/2ed3184c-b87c-4679-bc73-7cb4cb74f841" width="50"/> | Swipe | [Link]() | - |
 | <img src="https://assets.coingecko.com/coins/images/30392/large/0r9YJOJW_400x400.png?1696529281" width="50"/> | Gitopia | [Link](https://gitopia.explorers.guru/validator/gitopiavaloper1qmhdyr4tvn967ya4aks53t7r9gsepjmmsx6qla) | gitopiavaloper1qmhdyr4tvn967ya4aks53t7r9gsepjmmsx6qla |
-| <img src="https://s2.coinmarketcap.com/static/img/coins/200x200/20947.png" width="50"/> | Sui | [Link](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*8JttfZkJ2LvnoIKDrkARsQ.png) | Under maintenance |
-| <img src="https://github.com/user-attachments/assets/d95550e3-43bf-438b-b7db-b04a6d647e1d" width="50"/> | Babylon | [Link](https://github.com/babylonchain/networks/pull/321) | Under maintenance |
-| <img src="https://s2.coinmarketcap.com/static/img/coins/200x200/28932.png" width="50"/> | Dymension | [Link]() | Under maintenance |
+| <img src="https://s2.coinmarketcap.com/static/img/coins/200x200/20947.png" width="50"/> | Sui | [Link](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*8JttfZkJ2LvnoIKDrkARsQ.png) | - |
+| <img src="https://github.com/user-attachments/assets/d95550e3-43bf-438b-b7db-b04a6d647e1d" width="50"/> | Babylon | [Link](https://github.com/babylonchain/networks/pull/321) | Pending |
+| <img src="https://s2.coinmarketcap.com/static/img/coins/200x200/28932.png" width="50"/> | Dymension | [Link]() | - |
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaGb9LzXBR54wHP9gi7JnJ0Wz-uf1fzxzU9A&s" width="50"/> | Taiko | [Link]() | Under maintenance |
 | <img src="https://img.cryptorank.io/coins/omni_network1712911889767.png" width="50"/> | Omni Network | [Link]() | Under maintenance |
-
-
 
 # Brilee Guides
 
 |  | Network | Docs |
 |------|----------|---------------------|
 | <img src="https://github.com/user-attachments/assets/ee09271d-69ea-4563-a51b-e5bcb95fe0e9" width="50"/> | Arkeo | [Arkeo Guide](https://github.com/yutkach/arkeoguide) |
-| <img src="https://img.cryptorank.io/coins/0_g_labs1711467106027.png" width="50"/> | 0G Labs | [0G Guide](https://github.com/yutkach/0G-brilee/tree/main) |
-| <img src="https://img.cryptorank.io/coins/omni_network1712911889767.png" width="50"/> | Omni Network | [Omni Guide]() |
+| <img src="https://github.com/user-attachments/assets/3865056c-5c03-4206-9e6c-817d33115220" width="50"/> | Berachain | [Berachain Guide](https://github.com/yutkach/Berachain-guide) |
+| <img src="https://img.cryptorank.io/coins/omni_network1712911889767.png" width="50"/> | Omni Network | [Omni Guide](https://github.com/yutkach/Omni-Network-Validator-Node) |
+| <img src="https://github.com/user-attachments/assets/d95550e3-43bf-438b-b7db-b04a6d647e1d" width="50"/> | Babylon | [Babylon Guide](https://github.com/yutkach/babylon-guide) |
