@@ -26,6 +26,9 @@ Hello reader👋
 | <img src="https://s2.coinmarketcap.com/static/img/coins/200x200/28932.png" width="50"/> | Dymension | [Link]() | - |
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaGb9LzXBR54wHP9gi7JnJ0Wz-uf1fzxzU9A&s" width="50"/> | Taiko | [Link]() | Under maintenance |
 | <img src="https://img.cryptorank.io/coins/omni_network1712911889767.png" width="50"/> | Omni Network | [Link]() | Under maintenance |
+| <img src="https://github.com/user-attachments/assets/52c7b41d-d47d-485c-bdd8-d882947f0f08" width="50"/> | Particle | [Link]() | Pending |
+| <img src="https://github.com/user-attachments/assets/b50582b6-e291-45db-a2d4-ce5784931e38" width="50"/> | Bool | [Link]() | - |
+| <img src="https://github.com/user-attachments/assets/a1bf0301-8065-4ec9-b2a6-812a2f953520" width="50"/> | Lucidity | [Link]() | - |
 
 # Brilee Guides
 
@@ -35,3 +38,4 @@ Hello reader👋
 | <img src="https://github.com/user-attachments/assets/3865056c-5c03-4206-9e6c-817d33115220" width="50"/> | Berachain | [Berachain Guide](https://github.com/yutkach/Berachain-guide) |
 | <img src="https://img.cryptorank.io/coins/omni_network1712911889767.png" width="50"/> | Omni Network | [Omni Guide](https://github.com/yutkach/Omni-Network-Validator-Node) |
 | <img src="https://github.com/user-attachments/assets/d95550e3-43bf-438b-b7db-b04a6d647e1d" width="50"/> | Babylon | [Babylon Guide](https://github.com/yutkach/babylon-guide) |
+| <img src="https://github.com/user-attachments/assets/52c7b41d-d47d-485c-bdd8-d882947f0f08" width="50"/> | Particle | [Particle Guide](https://github.com/yutkach/Particle-Network) |
